@@ -4,3 +4,7 @@ body {
   */
  font: 100%/1.5 system-ui;
 }
+
+nav {
+  border-bottom: 1px;
+}
